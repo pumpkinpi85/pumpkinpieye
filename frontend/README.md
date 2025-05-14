@@ -1,0 +1,1 @@
+This folder will contain the SvelteKit or React frontend code for PumpkinPiEye.
